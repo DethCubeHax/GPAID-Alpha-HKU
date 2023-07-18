@@ -11,10 +11,10 @@ const ContactPage = () => {
                 </div>
                 <div style={{display:"flex", minWidth:"100%"}}>
                 <div style={{flex:1, textAlign:"left"}}>
-                        <div style={{display:"flex", minWidth:"100%", borderRight:"1px solid #bfbfbf"}}>
+                        <div style={{display:"flex", minWidth:"100%"}}>
                             <div style={{flex:1}}>
                                 <div style={{padding:"50px"}}>
-                                    <img src="https://avatars.githubusercontent.com/u/114172779?v=4"/>
+                                    <img src="https://avatars.githubusercontent.com/u/114172779?v=4" />
                                 </div>
                             </div>
                             <div style={{flex:1}}>
